@@ -20,10 +20,12 @@ time delay stop time value.
 obtained.
 
 ## CIRCUIT DIAGRAM:
+<img width="966" height="602" alt="image" src="https://github.com/user-attachments/assets/c021fa30-efe9-46bb-8380-3cc843f1d613" />
 
 
 
 ## OUTPUT GRAPH:
+<img width="1916" height="1035" alt="image" src="https://github.com/user-attachments/assets/57003e66-c041-4853-b70e-a89331420c3e" />
 
 
 ## RESULT:
