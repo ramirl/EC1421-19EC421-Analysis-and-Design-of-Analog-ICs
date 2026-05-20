@@ -34,11 +34,11 @@ For v2 and v3  keeping the other values constant.
 8. Click on the run option -->simulation window opens-->place the probe -->output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-### DAC:
-
+<img width="1309" height="814" alt="image" src="https://github.com/user-attachments/assets/31e75cb3-942c-48b4-aad2-e674f7f0c155" />
 
 ## OUTPUT GRAPH:
 ### DAC:
+<img width="1047" height="483" alt="image" src="https://github.com/user-attachments/assets/7df9ac12-00e5-4add-b388-503cf00eaacb" />
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and digital to analog converter (DAC) circuit is simulated.
